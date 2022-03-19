@@ -4,8 +4,8 @@ const usersRoutes = require('./user-routes');
 const thoughtsRoutes = require('./thought-routes');
 
 // Add `/users` to created routes
-router.use('/users', usersRoutes);
-router.use('/thoughts', thoughtsRoutes);
+router.use('/user', usersRoutes);
+router.use('/thought', thoughtsRoutes);
 
 // Export Module Router
 module.exports = router;
