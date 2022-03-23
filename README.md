@@ -38,7 +38,19 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 [Github Repo](https://github.com/mechas8703/18-NoSQL-Social-Network-API)
 
 
-## E-Commerce Back End
+## E-Commerce Back End Walktrough videos:
+* GET oute to return all users and all thoughts
+* GET route to return a single user and a single thought
+* POST route for creating a user in the database
+* PUT route for updating a user in the database
+* DELETE route to delete users from the database
+* POST route for creating a thought in the database
+* PUT route for updating a thought in the database
+* DELETE route to delete a thought from the database
+* POST route to create a reaction
+* DELETE route to delete a reaction
+
+
 ![Server Running](./assets/app.listen.gif)
 
 ![video1](./assets/video1.gif)
