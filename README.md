@@ -41,8 +41,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## E-Commerce Back End
 ![Server Running](./assets/app.listen.gif)
 
+![video1](./assets/video1.gif)
+
 ![video2](./assets/video2.gif)
 
 ![video3](./assets/video3.gif)
 
-![video3](./assets/video4.gif)
+![video4](./assets/video4.gif)
