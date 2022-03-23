@@ -35,15 +35,14 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Deployment
-* [Github Repo](https://github.com/mechas8703/18-NoSQL-Social-Network-API)
+[Github Repo](https://github.com/mechas8703/18-NoSQL-Social-Network-API)
 
 
 ## E-Commerce Back End
-* [Server Running]()
-* ![Server Running]()
+![Server Running](./assets/app.listen.gif)
 
-* [Get All]()
-* ![Get All]()
+![video2](./assets/video2.gif)
 
-* [POST, PUT, and DELETE]()
-* ![Delete]()
+![video3](./assets/video3.gif)
+
+![video3](./assets/video4.gif)
